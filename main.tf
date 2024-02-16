@@ -11,7 +11,7 @@ provider "azurerm" {
 
 #resourcegroup
 resource "azurerm_resource_group" "example" {
-  name     = "002-rg"
+  name     = "git-jen_rg"
   location = "East US"
 }
 
