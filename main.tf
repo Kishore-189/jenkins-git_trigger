@@ -100,4 +100,4 @@ resource "azurerm_virtual_network" "example" {
   value = azurerm_public_ip.example.ip_address
 }
 
-# Checking for jenkins trigger
+# Checking for jenkins triggered
