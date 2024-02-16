@@ -11,7 +11,7 @@ provider "azurerm" {
 
 #resourcegroup
 resource "azurerm_resource_group" "example" {
-  name     = "001-rg"
+  name     = "002-rg"
   location = "East US"
 }
 
